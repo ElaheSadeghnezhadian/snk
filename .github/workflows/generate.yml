@@ -18,7 +18,7 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg
           color_snake: "#00ff00"
-          color_dots: "#ffffff"
+          color_dots: "#00ffff"
           color_empty: "#000000"
 
       - name: Push the generated snake
